@@ -1,75 +1,77 @@
 # Julián Cepeda
 
-**Desarrollador de software | Backend y desarrollo web full stack**
+**English** | [Español](README.es.md) | [Deutsch](README.de.md) | [Italiano](README.it.md)
 
-Diseño y desarrollo aplicaciones web, con especial atención a la arquitectura del backend, el modelado de datos y la mantenibilidad del código. Trabajo principalmente con PHP, JavaScript y MariaDB, desde la definición de reglas de negocio hasta la implementación y el despliegue.
+**Software Developer | Backend & Full-Stack Web Development**
 
-Me interesa construir soluciones prácticas, seguras y eficientes, utilizando las herramientas que mejor se adapten a cada proyecto.
+I design and develop web applications with a particular focus on backend architecture, data modeling, and code maintainability. I primarily work with PHP, JavaScript, and MariaDB, from defining business rules through implementation and deployment.
 
-## Áreas de especialización
+I aim to build practical, secure, and efficient solutions, choosing the tools that best fit each project.
 
-- **Desarrollo backend:** aplicaciones PHP, arquitectura MVC, APIs REST y componentes reutilizables.
-- **Bases de datos:** modelado relacional, SQL avanzado, procedimientos almacenados y optimización de consultas.
-- **Sistemas de gestión:** procesos académicos y administrativos, lógica de negocio y reportes estadísticos.
-- **Infraestructura:** despliegue y administración de aplicaciones con Linux, Nginx, Docker y servicios en la nube.
-- **Desarrollo frontend:** interfaces web con HTML, CSS y JavaScript, priorizando soluciones sencillas y mantenibles.
+## Areas of expertise
 
-## Tecnologías
+- **Backend development:** PHP applications, MVC architecture, REST APIs, and reusable components.
+- **Databases:** relational data modeling, advanced SQL, stored procedures, and query optimization.
+- **Management systems:** academic and administrative processes, business logic, and statistical reporting.
+- **Infrastructure:** deployment and administration of applications using Linux, Nginx, Docker, and cloud services.
+- **Frontend development:** web interfaces built with HTML, CSS, and JavaScript, prioritizing simple, maintainable solutions.
 
-| Área | Tecnologías y herramientas |
+## Technologies
+
+| Area | Technologies and tools |
 | --- | --- |
 | Backend | PHP, Laravel, Node.js, Express |
 | Frontend | JavaScript, HTML5, CSS3, Blade, Bootstrap |
-| Bases de datos | MariaDB, MySQL, SQL, PDO |
-| Infraestructura | Debian, Nginx, Docker, AWS & Google Cloud |
-| Desarrollo | Git, GitHub, Composer, MVC, APIs REST |
-| Tecnologías en exploración | Go (Echo), Rust (Axum) |
+| Databases | MariaDB, MySQL, SQL, PDO |
+| Infrastructure | Debian, Nginx, Docker, AWS & Google Cloud |
+| Development | Git, GitHub, Composer, MVC, REST APIs |
+| Technologies I'm exploring | Go (Echo), Rust (Axum) |
 
-## Proyectos destacados
+## Featured projects
 
 ### [DasIntranet Framework](https://github.com/cepedajulian/framework)
 
-Framework PHP de desarrollo propio orientado a aplicaciones web y APIs. Incluye organización por controladores, enrutamiento, vistas e integración con bases de datos mediante PDO.
+A PHP framework I developed for web applications and APIs. It provides controller-based organization, routing, views, and database integration through PDO.
 
-**Tecnologías:** PHP, Composer, PDO.
+**Technologies:** PHP, Composer, PDO.
 
 ### [DasIntranet](https://github.com/cepedajulian/dasintranet)
 
-Proyecto de ejemplo para mostrar la estructura y el uso de DasIntranet Framework en una aplicación web.
+An example project demonstrating the structure and use of DasIntranet Framework in a web application.
 
-**Tecnologías:** PHP, MVC, Composer.
+**Technologies:** PHP, MVC, Composer.
 
 ### [library.js](https://github.com/cepedajulian/JSlibrary)
 
-Biblioteca JavaScript sin dependencias externas que reúne utilidades para manipulación del DOM, formularios, tablas y peticiones HTTP.
+A dependency-free JavaScript library offering utilities for DOM manipulation, forms, tables, and HTTP requests.
 
-**Tecnologías:** JavaScript, Fetch API.
+**Technologies:** JavaScript, Fetch API.
 
 ### [AccidentRecord](https://github.com/cepedajulian/AccidentRecord)
 
-Aplicación para registrar siniestros viales y analizar los datos mediante estadísticas y representaciones geográficas.
+An application for recording road traffic incidents and analyzing the data through statistics and geographic visualizations.
 
-**Tecnologías:** PHP, CodeIgniter, MySQL/MariaDB, mapas web.
+**Technologies:** PHP, CodeIgniter, MySQL/MariaDB, web maps.
 
 ### [ArchiDesign](https://github.com/cepedajulian/ArchiDesign)
 
-Sitio web para la presentación de trabajos y proyectos académicos de arquitectura.
+A website for presenting academic architecture work and projects.
 
-**Tecnologías:** HTML, CSS, JavaScript.
+**Technologies:** HTML, CSS, JavaScript.
 
 ### [MemoryGame](https://github.com/cepedajulian/MemoryGame)
 
-Juego de memoria desarrollado con tecnologías web nativas, con lógica de interacción, niveles y animaciones.
+A memory game built with native web technologies, featuring interactive gameplay, levels, and animations.
 
-**Tecnologías:** HTML, CSS, JavaScript.
+**Technologies:** HTML, CSS, JavaScript.
 
-## Otros trabajos e intereses técnicos
+## Other work and technical interests
 
-Además de los proyectos publicados, trabajo en soluciones de gestión académica que incluyen procesos de inscripción, correlatividades, administración de cursadas y exámenes, entornos multiinstitución e indicadores de desempeño. Estos desarrollos requieren diseñar reglas de negocio complejas y cuidar la consistencia y el rendimiento de la base de datos.
+In addition to my public projects, I work on academic management solutions covering enrollment processes, course prerequisites, coursework and exam administration, multi-institution environments, and performance indicators. These systems involve designing complex business rules while maintaining database consistency and performance.
 
-También exploro distintas tecnologías de backend y estrategias de despliegue para evaluar sus ventajas en escenarios reales.
+I also explore backend technologies and deployment strategies to evaluate their strengths in real-world scenarios.
 
-## Enlaces
+## Links
 
 - **GitHub:** [github.com/cepedajulian](https://github.com/cepedajulian)
-- **Sitio web:** [cepedajulian.com](https://www.cepedajulian.com)
+- **Website:** [cepedajulian.com](https://www.cepedajulian.com)
